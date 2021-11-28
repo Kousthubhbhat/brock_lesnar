@@ -5,7 +5,7 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 
 ⚠️More Help Check Help Button Below</b>
 
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href="https://t.me/Robert_Pattinson119"> 🅁🄾🄱🄴🅁🅃 </a>
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href="https://t.me/Half_Intelligent_2"> 🅁🄾🄱🄴🅁🅃 </a>
 
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
@@ -15,9 +15,9 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/medias_search_robot">Jᴏᴋᴇʀ [OᴠᴇʀPᴏᴡᴇʀᴇᴅ] ⚡</a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎ - <a href="https://t.me/Robert_Pattinson119"> 🅁🄾🄱🄴🅁🅃 </a>
-║┣⪼ 𝓰𝓻𝓸𝓾𝓹 - <a href="https://t.me/TAMILROCKERS_REQUEST"> Click Here </a>
+║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/The_Choice_Box">Jᴏᴋᴇʀ [OᴠᴇʀPᴏᴡᴇʀᴇᴅ] ⚡</a>
+║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎ - <a href="https://t.me/Half_Intelligent_2"> Creater  </a>
+║┣⪼ 𝓰𝓻𝓸𝓾𝓹 - <a href="https://t.me/The_Choice_Box"> Click Here </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -25,8 +25,8 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 ║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝑰 𝒂𝒎 𝑛𝑜𝑡 𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- 𝗗𝗘𝗩 ⚡ - <a href="https://t.me/Robert_Pattinson119"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- 𝑰 𝒂𝒎 𝑛𝑜𝑡 𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕.**If you Need repo contact @Half_Intelligent_2**
+- 𝗗𝗘𝗩 ⚡ - <a href="https://t.me/The_Choice_Box"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗦𝗨𝗣𝗣𝗢𝗥𝗧:
 <a href="https://t.me/filmyfunda_movies"> 『FF™』</a>"""
@@ -116,8 +116,8 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     FILTER_TXT = """𝐒𝐄𝐋𝐄𝐂𝐓 𝐀 𝐅𝐈𝐋𝐓𝐄𝐑 𝐓𝐘𝐏𝐄 𝐁𝐄𝐋𝐎𝐖
-⍟ 𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 @Robert_Pattinson119"""
-    STATUS_TXT = """✪ 𝑻𝒐𝒕𝒂𝒍 𝒇𝒊𝒍𝒆𝒔: <code>{}</code>
+⍟ 𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 """
+    STATUS_TXT = "@Half_Intelligent_2""✪ 𝑻𝒐𝒕𝒂𝒍 𝒇𝒊𝒍𝒆𝒔: <code>{}</code>
 ✪ 𝑻𝒐𝒕𝒂𝒍 𝑼𝒔𝒆𝒓𝒔: <code>{}</code>
 ✪ 𝑻𝒐𝒕𝒂𝒍 𝑪𝒉𝒂𝒕𝒔: <code>{}</code>
 ✪ 𝑼𝒔𝒆𝒅 𝑺𝒕𝒐𝒓𝒂𝒈𝒆: <code>{}</code> 𝙼𝚒𝙱
