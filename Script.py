@@ -117,7 +117,7 @@ This module only works for my admins
 • /broadcast - <code>to broadcast a message to all users</code>"""
     FILTER_TXT = """𝐒𝐄𝐋𝐄𝐂𝐓 𝐀 𝐅𝐈𝐋𝐓𝐄𝐑 𝐓𝐘𝐏𝐄 𝐁𝐄𝐋𝐎𝐖
 ⍟ 𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 """
-    STATUS_TXT = "@Half_Intelligent_2""✪ 𝑻𝒐𝒕𝒂𝒍 𝒇𝒊𝒍𝒆𝒔: <code>{}</code>
+    STATUS_TXT = "Half_Intelligent_2""✪ 𝑻𝒐𝒕𝒂𝒍 𝒇𝒊𝒍𝒆𝒔: <code>{}</code>
 ✪ 𝑻𝒐𝒕𝒂𝒍 𝑼𝒔𝒆𝒓𝒔: <code>{}</code>
 ✪ 𝑻𝒐𝒕𝒂𝒍 𝑪𝒉𝒂𝒕𝒔: <code>{}</code>
 ✪ 𝑼𝒔𝒆𝒅 𝑺𝒕𝒐𝒓𝒂𝒈𝒆: <code>{}</code> 𝙼𝚒𝙱
